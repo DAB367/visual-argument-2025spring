@@ -1,3 +1,9 @@
+##As Fragile as a Spider's web
+
+Created by Dana Briggs
+
+Visual Project to represent the fragility of our world. 
+
 ## List of Assets
 
 |File and Author|Source|License|
