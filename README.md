@@ -4,6 +4,11 @@ Created by Dana Briggs
 
 Visual Project to represent the fragility of our world. 
 
+Project can be found in Project file 
+Images of Final Piece as well as progress pictures can be found in Pictures File
+Sources Listed below in List of Assets
+For more information you can visit [NASA's Climate change webpage](https://science.nasa.gov/climate-change/what-is-climate-change/)
+
 ## List of Assets
 
 |File and Author|Source|License|
