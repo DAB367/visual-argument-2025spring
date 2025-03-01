@@ -20,3 +20,4 @@ For more information you can visit [NASA's Climate change webpage](https://scien
 |Spider Photo by Dev Leigh|[Unsplash](https://unsplash.com/photos/closeup-photography-of-brown-spider-aLDuLRjZknE)|[Unsplash License](https://unsplash.com/license)|
 |Earth Photo from New York Public Library|[Unsplash](https://unsplash.com/photos/planet-earth-close-up-photography-yEauzeZU6xo)|[Unsplash License](https://unsplash.com/license)|
 |Fire Photo by Chirag Nayak|[Unsplash](https://unsplash.com/photos/red-flame-iZwQbx4T8bQ)|[Unsplash License](https://unsplash.com/license)|
+|Earth Photo from NASA| [Unsplash](https://unsplash.com/photos/earth-with-clouds-above-the-african-continent-vhSz50AaFAs)|[Unsplash License](https://unsplash.com/license)|
