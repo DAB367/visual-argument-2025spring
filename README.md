@@ -7,6 +7,7 @@ Visual Project to represent the fragility of our world.
 Project can be found in Project file 
 
 Images of Final Piece as well as progress pictures can be found in Pictures File
+Final Picture is labeled AsFragileAsASpidersWeb.jpg
 
 Sources Listed below in List of Assets
 
